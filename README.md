@@ -1,5 +1,5 @@
 # The-Maze-Towers-RBX
-A Roblox game built around the idea of running through a tower of mazes.
+A Roblox game built around the idea of running through a tower of mazes while being attacked by hoards of enemies.
 
 ## Game Overview
 
